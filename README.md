@@ -1,2 +1,2 @@
 # MFCChatServer
-server of chat tool, developed by using mfc
+chat server, using mfc, the program is in the process, please wait...
